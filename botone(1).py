@@ -8,8 +8,8 @@ import numpy as np
 from datetime import datetime, timedelta, timezone
 
 # ── Environment variables ─────────────────────────────────────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "YOUR_GITHUB_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "‎8868957314:AAHoPh6jGJ7dtorpaDVp0z5ufBEVT7J7fpE‎")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "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")
 REPO_OWNER = os.getenv("REPO_OWNER", "cpaing262-cmyk")
 REPO_NAME = os.getenv("REPO_NAME", "jade")
 ADMIN_ID = os.getenv("ADMIN_ID", "7128316697")
